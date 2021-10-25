@@ -1,4 +1,13 @@
+bodu{
+    font: 20px Arial, sans-serif;
+}
+
 .principal{
     background-color: #C4C4C4 ;
     padding: 10%;
+}
+
+.chamada{
+    padding: 10%;
+    background-color: #D9CCCC;
 }
