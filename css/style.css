@@ -1,4 +1,4 @@
-bodu{
+body{
     font: 20px Arial, sans-serif;
 }
 
@@ -8,6 +8,15 @@ bodu{
 }
 
 .chamada{
-    padding: 10%;
+    padding: 150px 0;
     background-color: #D9CCCC;
+}
+
+.bg-footer{
+    background-color: black;
+    color:white;
+}
+
+.margin{
+    padding-bottom: 110px;
 }
